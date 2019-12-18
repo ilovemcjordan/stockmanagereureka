@@ -1,0 +1,5 @@
+
+C:\works\SBA\stockmanagerserver\stockmanagereureka>cd target 
+
+C:\works\SBA\stockmanagerserver\stockmanagereureka\target>java -jar stockmanager-eureka-0.0.1-SNAPSHOT.jar  1>log2.txt 
+バッチ ジョブを終了しますか (Y/N)? 
